@@ -6,3 +6,4 @@ datasets==3.6.0
 ipywidgets
 git+https://github.com/huggingface/diffusers.git
 torchvision
+setuptools>=68.0.0
